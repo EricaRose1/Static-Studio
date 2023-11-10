@@ -1,0 +1,16 @@
+.photoGallery {
+  column-count: 4;
+  column-fill: balance;
+  margin-top: 15px;
+}
+
+.ImageCard {
+  display: inline-block; /* aviod to break through columns */
+  margin: 10px auto;
+  height: 100%;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}

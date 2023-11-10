@@ -1,0 +1,24 @@
+#image-container {
+  width: 60%;
+  margin: 55px;
+  padding: 10px;
+  border: 1px solid;
+  box-shadow: 10px 13px 5px gray;
+  border-radius: 5px;
+}
+
+#img {
+  margin: 5px;
+  padding: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  border: none;
+  color: brown;
+  background-color: transparent;
+  font-size: 25px;
+  align-self: flex-start;
+}
