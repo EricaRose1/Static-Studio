@@ -5,7 +5,7 @@ Welcome to e-PhotoStudio, a visually stunning photo gallery website created usin
 ##Features:
 - React-Powered: Built with the power of React, e-PhotoStudio offers a dynamic and responsive user interface, ensuring a smooth and engaging browsing experience.
 
- ##Tech-stack
+ ##Tech-stack:
  -React
  -HTML5
  -CSS3
