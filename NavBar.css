@@ -1,0 +1,21 @@
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space arround;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #666;
+}
+
+li {
+  align-items: center;
+}
+
+li a {
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
