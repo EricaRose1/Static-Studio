@@ -1,6 +1,6 @@
 
 import Maine from './Photos/3amhike.jpg';
-import Grassrocks from './Photos/grassrocks.JPG';
+import Grassrocks from './Photos/grassrocks.jpg';
 import GreenGrass from './Photos/greengrassocala.jpg';
 import Landscape from './Photos/hikingclif.jpg';
 import Ice from './Photos/ice.jpg';
@@ -8,7 +8,7 @@ import Lake from './Photos/lake.jpg';
 import Lake2 from './Photos/lake2.jpg';
 import meadows from './Photos/meadows.jpg';
 import MooseLake from './Photos/mooselake.jpg';
-import RoyalGorge from './Photos/RoyalGorgeCO.JPG';
+import RoyalGorge from './Photos/RoyalGorgeCO.jpg';
 import sawtooth from './Photos/sawtooth.jpg';
 import tree from './Photos/tree.jpg';
 import OcalaTrees from './Photos/trees.jpg';

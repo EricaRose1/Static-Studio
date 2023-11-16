@@ -12,7 +12,7 @@ function NavBar() {
                     <NavLink exact to='/'>Gallery</NavLink>
                 </li>
                 <li id='link'>
-                    <NavLink exact to='Contact'>Contact Info</NavLink>
+                    <NavLink exact to='/Contact'>Contact Info</NavLink>
                 </li>
             </ul>
         </>

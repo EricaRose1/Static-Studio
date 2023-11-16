@@ -1,12 +1,12 @@
 ul {
   display: flex;
   flex-direction: row;
-  justify-content: space arround;
+  justify-content: space-evenly;
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 14px 16px;
   overflow: hidden;
-  background-color: #666;
+  background-color: rgb(148, 151, 154);
 }
 
 li {
@@ -15,7 +15,11 @@ li {
 
 li a {
   color: white;
-  text-align: center;
-  padding: 14px 16px;
+
   text-decoration: none;
+}
+
+.footer p {
+  position: absolute;
+  bottom: 0;
 }
